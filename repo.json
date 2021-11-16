@@ -8,11 +8,11 @@
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN",
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.2/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.2/latest.zip",
         "LastUpdated": "1636499754"
     }
 ]
