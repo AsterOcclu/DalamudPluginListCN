@@ -14,5 +14,21 @@
         "DownloadLinkTesting": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.2/latest.zip",
         "LastUpdated": "1637025126"
+    },
+    {
+        "Author": "AsterOcclu",
+        "Name": "SkipCutscene",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.2.0.1",
+        "Description": "This plugin can help you skip cutscene from\nthese instances.\n\nCastrum Meridianum\nThe Praetorium",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/AsterOcclu/Dalamud.SkipCutscene",
+        "DalamudApiLevel": 4,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/AsterOcclu/Dalamud.SkipCutscene/releases/download/v1.2.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/AsterOcclu/Dalamud.SkipCutscene/releases/download/v1.2.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/AsterOcclu/Dalamud.SkipCutscene/releases/download/v1.2.0.1/latest.zip"
     }
 ]
