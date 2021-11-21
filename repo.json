@@ -8,7 +8,7 @@
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN",
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v.0.3.2.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN/releases/download/v0.3.2.3/latest.zip",
