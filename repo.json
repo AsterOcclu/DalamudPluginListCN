@@ -128,6 +128,30 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642386557"
+        "LastUpdated": "1642406104"
+    },
+    {
+        "Author": "Caraxi",
+        "Name": "Simple Tweaks Plugin",
+        "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
+        "InternalName": "SimpleTweaksPlugin",
+        "AssemblyVersion": "1.6.6.1",
+        "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "Punchline": "This was supposed to be simple...",
+        "DownloadLinkInstall": "https://github.com/AsterOcclu/SimpleTweaksPlugin/releases/download/1.6.6.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/AsterOcclu/SimpleTweaksPlugin/releases/download/1.6.6.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/AsterOcclu/SimpleTweaksPlugin/releases/download/1.6.6.1/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "CategoryTags": [
+            "UI",
+            "other",
+            "utility",
+            "social"
+        ],
+        "LastUpdated": "1642406104"
     }
 ]
