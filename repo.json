@@ -132,7 +132,7 @@
     },
     {
         "Author": "Ottermandias",
-        "Name": "GatherBuddy [T]",
+        "Name": "GatherBuddy",
         "Punchline": "采集与钓鱼助手",
         "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions.",
         "Tags": [ "Gathering", "Fishing", "Miner", "Botanist", "Weather", "Alarms", "Timer" ],
@@ -146,6 +146,7 @@
         "IsTestingExclusive": "false",
         "DownloadCount": 1,
         "LastUpdate": 1648199898,
+        "DownloadLinkInstall": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
         "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
         "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png"
