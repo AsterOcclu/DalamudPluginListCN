@@ -143,7 +143,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
         "IsHide": "False",
-        "IsTestingExclusive": "True",
+        "IsTestingExclusive": "false",
         "DownloadCount": 1,
         "LastUpdate": 1648199898,
         "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
