@@ -131,27 +131,23 @@
         "LastUpdated": "1642406104"
     },
     {
-        "Author": "Caraxi",
-        "Name": "Simple Tweaks Plugin",
-        "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)\\",
-        "InternalName": "SimpleTweaksPlugin",
-        "AssemblyVersion": "1.6.6.1",
-        "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
+        "Author": "Ottermandias",
+        "Name": "GatherBuddy [T]",
+        "Punchline": "采集与钓鱼助手",
+        "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions.",
+        "Tags": [ "Gathering", "Fishing", "Miner", "Botanist", "Weather", "Alarms", "Timer" ],
+        "InternalName": "GatherBuddy",
+        "AssemblyVersion": "3.0.3.1",
+        "TestingAssemblyVersion": "3.0.3.1",
+        "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
-        "Punchline": "This was supposed to be simple...",
-        "DownloadLinkInstall": "https://github.com/AsterOcclu/SimpleTweaksPlugin/releases/download/1.6.6.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/AsterOcclu/SimpleTweaksPlugin/releases/download/1.6.6.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/AsterOcclu/SimpleTweaksPlugin/releases/download/1.6.6.1/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "CategoryTags": [
-            "UI",
-            "other",
-            "utility",
-            "social"
-        ],
-        "LastUpdated": "1642406104"
-    }
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "True",
+        "DownloadCount": 1,
+        "LastUpdate": 1648199898,
+        "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
+        "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png"
+      }
 ]
