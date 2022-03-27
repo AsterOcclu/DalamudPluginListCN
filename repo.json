@@ -85,7 +85,7 @@
         "Author": "Aireil",
         "Name": "FF Logs Viewer",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "1.4.0.1",
+        "AssemblyVersion": "1.4.1.1",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/AsterOcclu/FFLogsViewer",
@@ -102,10 +102,10 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
-        "LastUpdate": "1637537255",
-        "DownloadLinkInstall": "https://github.com/AsterOcclu/FFLogsViewer/releases/download/v1.4.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/AsterOcclu/FFLogsViewer/releases/download/v1.4.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/AsterOcclu/FFLogsViewer/releases/download/v1.4.0.1/latest.zip"
+        "LastUpdate": 1648383918,
+        "DownloadLinkInstall": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
+        "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
+        "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip"
     },
     {
         "Author": "daemitus",
