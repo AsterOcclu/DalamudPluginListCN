@@ -20,6 +20,11 @@
     ],
     "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
     "Punchline": "在游戏内查询玩家的FFLogs数据, 支持国服",
-    "Changelog": "- 2.0.4.0: Enable context menu button again.\n- 2.0.4.1: Warn when a metric is not supported by an encounter."
+    "Changelog": "- 2.0.4.0: Enable context menu button again.\n- 2.0.4.1: Warn when a metric is not supported by an encounter.",
+    "DownloadCount": 0,
+    "LastUpdate": "1651776397",
+    "DownloadLinkInstall": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
+    "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
+    "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip"
   }
 ]
