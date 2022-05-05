@@ -82,32 +82,6 @@
         "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip"
     },
     {
-        "Author": "Aireil",
-        "Name": "FF Logs Viewer",
-        "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "1.4.1.1",
-        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/AsterOcclu/FFLogsViewer",
-        "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/ui.png",
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/contextMenu1.png",
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/contextMenu2.png"
-        ],
-        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
-        "Punchline": "View FF Logs ranking percentiles in-game.",
-        "Changelog": "Add support to Chinese DC.",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 1648383918,
-        "DownloadLinkInstall": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
-        "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
-        "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip"
-    },
-    {
         "Author": "daemitus",
         "Name": "Yes Already",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -148,5 +122,28 @@
         "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
         "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/GatherBuddy.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png"
-      }
+    },
+    {
+        "Author": "Aireil",
+        "Name": "FF Logs Viewer",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "2.0.4.1",
+        "Description": "在游戏内查询玩家FFLogs, 在各种菜单中提供快捷查询入口",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/AsterOcclu/FFLogsViewer",
+        "Tags": [
+            "FFLogs",
+            "FFLog",
+            "FFLo",
+            "FFL"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+        ],
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+        "Punchline": "在游戏内查询玩家的FFLogs数据, 支持国服",
+        "Changelog": "- 2.0.4.0: Enable context menu button again.\n- 2.0.4.1: Warn when a metric is not supported by an encounter."
+    }
 ]
