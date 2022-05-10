@@ -3,7 +3,7 @@
         "Author": "ascclemens",
         "Name": "The Roleplayer's Toolbox",
         "InternalName": "RoleplayersToolbox",
-        "AssemblyVersion": "0.3.4.0",
+        "AssemblyVersion": "0.3.4.1",
         "Description": "专为Roleplay玩家制作的工具集。\n\n- 新增支持6.0的城镇内传送水晶界面。\n- 在招募板的店面信息上右键，或使用 /go 命令可以设定目的地，且获得最近的传送路径与导航提示信息。\n- 允许左键或右键单击快速查看玩家信息。\n- 可以锁定当前目标，防止情感动作或者宏因丢失目标被错误使用。\n- 可以把任何『已解锁』的情感动作放置在热键栏，比如『睡大街』『椅子坐』。\n- 提供 /emoteid 命令执行任意『已解锁』的情感动作。\n- 可以阻止在床边使用 /打盹 命令时自动入睡（只瞌睡、不躺下）。",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/AsterOcclu/FFXIV_RpToolboxCN",
@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/RoleplayersToolbox.zip",
         "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/RoleplayersToolbox.zip",
-        "LastUpdated": 1651984016
+        "LastUpdated": 1652174023
     },
 	{
 		"Author": "a08381",
@@ -129,7 +129,7 @@
         "Author": "Aireil",
         "Name": "FF Logs Viewer",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.0.4.1",
+        "AssemblyVersion": "2.0.4.2",
         "Description": "在游戏内查询玩家FFLogs, 在各种菜单中提供快捷查询入口",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/AsterOcclu/FFLogsViewer",
@@ -150,7 +150,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
-        "LastUpdate": "1651776397",
+        "LastUpdate": "1652174023",
         "DownloadLinkInstall": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
         "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
         "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip"
