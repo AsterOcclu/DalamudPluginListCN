@@ -3,7 +3,7 @@
     "Author": "Aireil",
     "Name": "FF Logs Viewer",
     "InternalName": "FFLogsViewer",
-    "AssemblyVersion": "2.0.4.2",
+    "AssemblyVersion": "2.0.4.3",
     "Description": "在游戏内查询玩家FFLogs, 在各种菜单中提供快捷查询入口",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/AsterOcclu/FFLogsViewer",
@@ -13,16 +13,16 @@
       "FFLo",
       "FFL"
     ],
-    "DalamudApiLevel": 5,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
       "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
     ],
     "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
     "Punchline": "在游戏内查询玩家的FFLogs数据, 支持国服",
-    "Changelog": "- 2.0.4.0: Enable context menu button again.\n- 2.0.4.1: Warn when a metric is not supported by an encounter.",
+    "Changelog": "- 2.0.4.2: Warn when a metric is not supported by an encounter.\n- 2.0.4.3: 支持国服6.1",
     "DownloadCount": 0,
-    "LastUpdate": "1652174023",
+    "LastUpdate": "1660191412",
     "DownloadLinkInstall": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
     "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip",
     "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/FFLogsViewer.zip"
