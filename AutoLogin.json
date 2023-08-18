@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "Caraxi",
+        "Name": "Auto Login",
+        "InternalName": "AutoLogin",
+        "AssemblyVersion": "1.0.0.6",
+        "Description": "自动登录, 支持国服",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Caraxi/AutoLogin",
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 1,
+        "Punchline": "指定服务器和角色后，自动登录, 支持国服",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/AutoLogin.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/AutoLogin.zip",
+        "DownloadLinkUpdate": "https://github.com/AsterOcclu/DalamudPluginListCN/raw/main/AutoLogin.zip",
+        "LastUpdated": 1692322841
+    }
+]
